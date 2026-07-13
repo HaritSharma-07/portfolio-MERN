@@ -1,4 +1,4 @@
-import "./Projects.css";
+import "./projects.css";
 import portfolioData from "../../data/portfolioData";
 import ProjectCard from "../ProjectCard/ProjectCard";
 

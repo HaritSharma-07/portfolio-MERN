@@ -1,4 +1,4 @@
-import "./Skills.css";
+import "./skills.css";
 import portfolioData from "../../data/portfolioData";
 
 function Skills() {

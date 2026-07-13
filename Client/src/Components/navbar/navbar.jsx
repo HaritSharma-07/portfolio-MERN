@@ -3,7 +3,7 @@ import "./navbar.css";
 
 function Navbar() {
 
-    const [active] = useState("home");
+    const [active, setActive] = useState("home");
 
     return (
         <nav className="navbar">

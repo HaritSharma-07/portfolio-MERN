@@ -61,7 +61,7 @@ function Hero() {
             <FaGithub />
           </a>
 
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer">
+          <a href="https://linkedin.com/in/harit-sharma-266401376" target="_blank" rel="noreferrer">
             <FaLinkedin />
           </a>
 

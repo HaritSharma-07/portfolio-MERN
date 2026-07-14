@@ -1,6 +1,6 @@
 import "./Projects.css";
 import portfolioData from "../../data/portfolioData";
-import ProjectCard from "../projectCard/ProjectCard";
+import ProjectCard from "../ProjectCard/projectCard";
 
 function Projects() {
   return (

@@ -20,7 +20,7 @@ function Footer() {
                 <div className="footer-icons">
 
                     <a
-                        href="https://github.com/YOUR_GITHUB_USERNAME"
+                        href="https://github.com/HaritSharma-07"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
@@ -28,7 +28,7 @@ function Footer() {
                     </a>
 
                     <a
-                        href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"
+                        href="https://linkedin.com/in/harit-sharma-266401376"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
